@@ -1,2 +1,2 @@
-# venrok-web
-Landing page of venrok project https://venrok.com
+# wuka.uk
+Web site for wuka application
